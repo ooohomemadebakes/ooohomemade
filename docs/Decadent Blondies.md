@@ -1,3 +1,7 @@
+---
+layout: default
+title: Decadent Brownies
+---
 **DECADENT BLONDIES**  
 WAY better than a box mix.  
 Thank you for purchasing a fresh dry mix batch from our bakery!  
