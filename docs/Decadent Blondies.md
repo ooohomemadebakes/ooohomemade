@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Decadent Brownies
+title: Decadent Blondies
 ---
 **DECADENT BLONDIES**  
 WAY better than a box mix.  
