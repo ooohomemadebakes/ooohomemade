@@ -1,3 +1,7 @@
+---
+layout: default
+title: Decadent Brownies
+---
 **DECADENT BROWNIES**  
 WAY better than a box mix. Only uses one bowl, no mixer required.  
 Thank you for purchasing a fresh dry mix batch from our bakery!  
