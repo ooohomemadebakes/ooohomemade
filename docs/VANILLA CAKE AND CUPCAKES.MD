@@ -1,3 +1,7 @@
+---
+layout: default
+title: Decadent Brownies
+---
 VANILLA CAKE AND CUPCAKES  
 Yields: 8” 2-layer Cake, 12 Standard Cupcakes,  9"X13" Sheet Cake  
 WAY better than a box mix.  
