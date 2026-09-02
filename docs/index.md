@@ -7,3 +7,4 @@ title: OOOH Bakery Recipes
 
 - [Decadent Brownies]
 - [CHOCOLATE CAKE AND CUPCAKES]
+- [VANILLA CAKE AND CUPCAKES]
