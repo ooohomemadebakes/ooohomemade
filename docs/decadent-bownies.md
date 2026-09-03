@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Decadent Brownies
+title: decadent-brownies
 ---
 
 **DECADENT BROWNIES**  
