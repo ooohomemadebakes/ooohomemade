@@ -7,5 +7,5 @@ title: OOOH Bakery Recipes
 
 - [Decadent Brownies](decadent-brownies)
 - [Decadent Blondies](decadent-blondies)
-- [Chocolate Cake and Cupcakes](chocolate-cake-cupcakes)
-- [Vanilla Cake and Cupcakes](vanilla-cake-cupcakes)
+- [Chocolate Cake and Cupcakes](chocolate-cake-and-cupcakes)
+- [Vanilla Cake and Cupcakes](vanilla-cake-and-cupcakes)
