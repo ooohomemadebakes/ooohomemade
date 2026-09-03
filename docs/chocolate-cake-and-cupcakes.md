@@ -2,18 +2,19 @@
 layout: default
 title: CHOCOLATE CAKE AND CUPCAKES
 ---
-CHOCOLATE CAKE AND CUPCAKES  
+**CHOCOLATE CAKE AND CUPCAKES**  
 Yields: 8” 2-layer Cake, 12 Standard Cupcakes, 9"X13" Sheet Cake  
 WAY better than a box mix.   
+---
 Only uses one bowl, no mixer required.  
 Thank you for purchasing a fresh dry mix batch from our bakery!  
----
 Follow these simple steps to bake bakery-quality treats at home.  
 ---
 
 **What You Need:**  
 1 Package Chocolate Cake Mix.  
-    Base Dry Mix includes: Flour, Sugars, Leavening, Salt, etc.  
+---
+Base Dry Mix includes: Flour, Sugars, Leavening, Salt, etc.  
 
 **Equipment**  
 * Hand Mixer & Medium mixing bowl or Stand Mixer  
