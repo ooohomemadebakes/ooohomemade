@@ -10,6 +10,7 @@ Thank you for purchasing a fresh dry mix batch from our bakery!
 ---
 Follow these simple steps to bake bakery-quality treats at home.  
 ---
+
 **What You Need:**  
 1 Package Chocolate Cake Mix.  
     Base Dry Mix includes: Flour, Sugars, Leavening, Salt, etc.  
