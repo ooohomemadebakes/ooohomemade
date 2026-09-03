@@ -1,6 +1,6 @@
 ---
 layout: default
-title: decadent-brownies
+title: Decadent Brownies
 ---
 **DECADENT BROWNIES**  
 WAY better than a box mix. Only uses one bowl, no mixer required.  
