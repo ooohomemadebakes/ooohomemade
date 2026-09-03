@@ -1,6 +1,7 @@
+
 ---
 layout: default
-title: OOOH Bakery Recipes
+title: OOOH! Out Of the Ordinary Homemade Bakery Recipes
 ---
 
 # Recipes
